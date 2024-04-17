@@ -14,7 +14,7 @@ import static com.javarush.telegrambot.TelegramBotContent.*;
 
 public class MyFirstTelegramBot extends MultiSessionTelegramBot {
     public static final String NAME = "CyberCat_2024_bot"; // TODO: добавьте имя бота в кавычках
-    public static final String TOKEN = "7095481021:AAGAN4pNJXr6TE1B9qaa0iT0ayjx3azF_jE"; //TODO: добавьте токен бота в кавычках
+    public static final String TOKEN = ; //TODO: добавьте токен бота в кавычках
 
     public MyFirstTelegramBot() {
         super(NAME, TOKEN);
