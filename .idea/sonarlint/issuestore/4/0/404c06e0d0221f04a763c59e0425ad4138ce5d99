@@ -1,0 +1,18 @@
+
+
+java:S1192 "KDefine a constant instead of duplicating this literal "step_2_btn" 4 times.(¿•ÆÒ8»ï–Àî1J$ce7e2cb1-29fd-4e3e-a4d3-e5a61846c8e9
+“
+java:S1192/"KDefine a constant instead of duplicating this literal "step_4_btn" 4 times.(ü¤“Õüÿÿÿÿ8»ï–Àî1J$0a2bb053-ae54-478e-994b-92c2a3dd2c6c
+
+java:S1192@"KDefine a constant instead of duplicating this literal "step_6_btn" 4 times.(È£¥”8»ï–Àî1J$b597615e-7c85-40d9-b482-e6e0f0811fcc
+u
+java:S1135"2Complete the task associated to this TODO comment.(áâöÕ8õğ–Àî1J$bdc37153-fcb6-4a2b-9cde-6f363401f67b
+u
+java:S1135"2Complete the task associated to this TODO comment.(Š¾©Š8õğ–Àî1J$b464c05b-4822-453d-b3d5-3b6cd5728ca8
+~	java:S125u"<This block of commented-out lines of code should be removed.(¾İò‹8„ñ–Àî1J$4a35e970-308b-4788-a6c4-f8fa5cba7848
+ 
+java:S1128"XRemove this unused import 'org.telegram.telegrambots.meta.api.methods.send.SendMessage'.(œ™âıÿÿÿÿ8€İšÀî1J$b35ca247-eccf-407b-ab8c-5b4d7860c6e8
+°
+java:S1128"hRemove this unused import 'org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText'.(Ç£ºóøÿÿÿÿ8€İšÀî1J$ea44f4ae-adc5-486b-9c54-73e653b5a33c
+—
+java:S1128"ORemove this unused import 'org.telegram.telegrambots.meta.api.objects.Message'.(ëàûşÿÿÿÿ8€İšÀî1J$f713d7dc-e463-4679-925d-0df385c1d5a1
